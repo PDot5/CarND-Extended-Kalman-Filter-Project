@@ -76,10 +76,10 @@ for instructions and the project rubric.
 ## Project output:
 
 Here is a screenshot of the output of Dataset 1: (A movie of how the simulator performed will also be uploaded to the repository: Movie ExtendedKF Dataset 1)
-![Dataset 1](https://github.com/PDot5/CarND-Extended-Kalman-Filter-Project/build/Sim_Images/Dataset_1)
+![Dataset 1](https://github.com/PDot5/CarND-Extended-Kalman-Filter-Project/build/Sim_Images/Dataset_1.png)
 
 Here is a screenshot of the output of Dataset 2: (A movie of how the simulator performed will also be uploaded to the repository: Movie ExtendedKF Dataset 2)
-![Dataset 2](https://github.com/PDot5/CarND-Extended-Kalman-Filter-Project/build/Sim_Images/Dataset_2)
+![Dataset 2](https://github.com/PDot5/CarND-Extended-Kalman-Filter-Project/build/Sim_Images/Dataset_2.png)
 
 ## Additional:
 ### Xcode
